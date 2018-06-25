@@ -28,7 +28,7 @@ struct Article {
 struct Shared {
     tags: HashMap<String, Vec<Article>>
 }
-#![doc(html_root_url = "https://khanhml.github.io/")]
+
 struct Metadata {
     title: String,
     published: String,
