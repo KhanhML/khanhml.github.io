@@ -1,5 +1,5 @@
 [package]
-name = "src"
+name = "generator-rs"
 version = "0.1.0"
 authors = ["Huy <kingbazoka@gmail.com>"]
 
