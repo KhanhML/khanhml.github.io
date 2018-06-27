@@ -11,7 +11,7 @@ after_success: |
 deploy:
   provider: script
   script: 
-  - ./generator posts
+  - generator posts
   on:
     branch: master
 
